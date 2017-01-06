@@ -1,0 +1,20 @@
+{
+  "name": "doctor",
+  "description": "Epicodus Javascript Week One Independent Project - Modern APIs",
+  "main": "gulpfile.js",
+  "authors": [
+    "Suzi Rubino"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
